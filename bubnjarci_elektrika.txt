@@ -1,0 +1,344 @@
+
+HEP Elektra - MojRačun
+prometOčitanjapotrošnjainformativni obračunkalkulatorkorisnik
+anton.bregar@gmail.com 
+Kupac:
+LJUBICA BREGAR
+Ugovorni račun: 2201917872 Broj OMM: 1705914128
+Adresa: BUBNJARCI BB, 47280 KAMANJE, HR
+
+Pregled zaduženja i uplata
+Preplata na dan 28.10.2024:
+133,10
+Datum	Opis	Zaduženje [ EUR ]	Uplate [ EUR ]
+24.10.24	Račun	2,85	
+21.09.24	Račun	8,77	
+23.08.24	Račun	5,39	
+26.07.24	Račun	3,13	
+24.06.24	Račun	5,81	
+24.05.24	Račun	6,37	
+23.04.24	Račun	3,28	
+23.03.24	Račun	2,85	
+23.02.24	Račun	2,85	
+25.01.24	Račun	2,85	
+21.12.23	Račun	4,69	
+28.11.23	Račun	7,96	
+23.09.23	Račun	7,38	
+31.08.23	Račun	3,42	
+29.07.23	Račun	8,94	
+28.06.23	Račun	5,54	
+27.05.23	Račun	5,11	
+27.04.23	Račun	8,67	
+05.04.23	Račun	-101,30	
+08.03.23	Račun	8,90	
+06.03.23	Akontacija	24,80	
+06.02.23	Akontacija	27,50	
+20.01.23	Uplaćeno		24,81
+20.01.23	Uplaćeno		136,55
+20.01.23	Uplaćeno		24,10
+20.01.23	Uplaćeno		27,50
+20.01.23	Uplaćeno		27,78
+20.01.23	Uplaćeno		24,38
+05.01.23	Akontacija	27,78	
+05.12.22	Akontacija	24,38	
+05.11.22	Akontacija	24,10	
+21.09.22	Akontacija	3,28	
+22.08.22	Akontacija	3,28	
+21.07.22	Akontacija	3,28	
+21.06.22	Akontacija	3,28	
+07.06.22	Uplaćeno		0,20
+07.06.22	Uplaćeno		3,28
+07.06.22	Uplaćeno		3,28
+07.06.22	Uplaćeno		3,28
+07.06.22	Uplaćeno		3,28
+07.06.22	Uplaćeno		3,28
+21.05.22	Akontacija	3,28	
+30.04.22	Račun	7,48	
+30.04.22	Akontacija	3,28	
+21.03.22	Akontacija	2,61	
+21.02.22	Akontacija	2,61	
+21.01.22	Akontacija	2,61	
+21.12.21	Akontacija	2,61	
+22.11.21	Akontacija	2,61	
+29.10.21	Račun	3,88	
+27.10.21	Akontacija	2,61	
+21.09.21	Akontacija	3,00	
+21.08.21	Akontacija	3,00	
+21.07.21	Akontacija	3,00	
+21.06.21	Akontacija	3,00	
+21.05.21	Akontacija	3,00	
+06.05.21	Račun	-45,12	
+21.04.21	Uplaćeno		14,29
+21.04.21	Uplaćeno		14,29
+16.04.21	Uplaćeno		14,29
+22.03.21	Akontacija	14,29	
+22.02.21	Akontacija	14,29	
+21.01.21	Akontacija	14,29	
+21.12.20	Akontacija	14,29	
+07.12.20	Uplaćeno		6,29
+07.12.20	Uplaćeno		14,29
+07.12.20	Uplaćeno		14,29
+07.12.20	Uplaćeno		14,29
+21.11.20	Akontacija	14,29	
+04.11.20	Akontacija	14,29	
+02.11.20	Račun	0,28	
+21.09.20	Akontacija	3,00	
+21.08.20	Akontacija	3,00	
+13.08.20	Uplaćeno		3,00
+13.08.20	Uplaćeno		3,00
+13.08.20	Uplaćeno		3,00
+13.08.20	Uplaćeno		3,00
+21.07.20	Akontacija	3,00	
+23.06.20	Akontacija	3,00	
+29.05.20	Uplaćeno		76,97
+21.05.20	Akontacija	3,00	
+04.05.20	Storno uplate		-79,97
+04.05.20	Akontacija	3,00	
+02.05.20	Račun	64,95	
+29.04.20	Uplaćeno		79,97
+31.03.20	Storno uplate		-12,02
+27.03.20	Uplaćeno		12,02
+21.03.20	Akontacija	3,00	
+02.03.20	Storno uplate		-9,01
+27.02.20	Uplaćeno		9,01
+21.02.20	Akontacija	3,00	
+31.01.20	Storno uplate		-6,01
+29.01.20	Uplaćeno		6,01
+21.01.20	Akontacija	3,00	
+31.12.19	Storno uplate		-3,00
+27.12.19	Uplaćeno		3,00
+21.12.19	Akontacija	3,00	
+28.11.19	Uplaćeno		6,00
+21.11.19	Akontacija	3,00	
+05.11.19	Račun	-0,01	
+04.11.19	Akontacija	3,00	
+Preplata na dan 28.10.2024:
+133,10 [ EUR ]
+
+Kretanje salda
+1.01.20
+1.01.21
+1.01.22
+1.01.23
+1.01.24
+1.09.24
+-200
+0
+200
+400
+Datum
+Saldo [ EUR ]
+Datum	Saldo
+Oct 24, 2024, 2:00:00 AM	-2.85
+Oct 24, 2024, 2:00:00 AM	-11.62
+Sep 21, 2024, 2:00:00 AM	-11.62
+Sep 21, 2024, 2:00:00 AM	-17.01
+Aug 23, 2024, 2:00:00 AM	-17.01
+Aug 23, 2024, 2:00:00 AM	-20.14
+Jul 26, 2024, 2:00:00 AM	-20.14
+Jul 26, 2024, 2:00:00 AM	-25.95
+Jun 24, 2024, 2:00:00 AM	-25.95
+Jun 24, 2024, 2:00:00 AM	-32.32
+May 24, 2024, 2:00:00 AM	-32.32
+May 24, 2024, 2:00:00 AM	-35.6
+Apr 23, 2024, 2:00:00 AM	-35.6
+Apr 23, 2024, 2:00:00 AM	-38.45
+Mar 23, 2024, 1:00:00 AM	-38.45
+Mar 23, 2024, 1:00:00 AM	-41.3
+Feb 23, 2024, 1:00:00 AM	-41.3
+Feb 23, 2024, 1:00:00 AM	-44.15
+Jan 25, 2024, 1:00:00 AM	-44.15
+Jan 25, 2024, 1:00:00 AM	-48.84
+Dec 21, 2023, 1:00:00 AM	-48.84
+Dec 21, 2023, 1:00:00 AM	-56.8
+Nov 28, 2023, 1:00:00 AM	-56.8
+Nov 28, 2023, 1:00:00 AM	-64.18
+Sep 23, 2023, 2:00:00 AM	-64.18
+Sep 23, 2023, 2:00:00 AM	-67.6
+Aug 31, 2023, 2:00:00 AM	-67.6
+Aug 31, 2023, 2:00:00 AM	-76.54
+Jul 29, 2023, 2:00:00 AM	-76.54
+Jul 29, 2023, 2:00:00 AM	-82.08
+Jun 28, 2023, 2:00:00 AM	-82.08
+Jun 28, 2023, 2:00:00 AM	-87.19
+May 27, 2023, 2:00:00 AM	-87.19
+May 27, 2023, 2:00:00 AM	-95.86
+Apr 27, 2023, 2:00:00 AM	-95.86
+Apr 27, 2023, 2:00:00 AM	5.44
+Apr 5, 2023, 2:00:00 AM	5.44
+Apr 5, 2023, 2:00:00 AM	-3.46
+Mar 8, 2023, 1:00:00 AM	-3.46
+Mar 8, 2023, 1:00:00 AM	-28.26
+Mar 6, 2023, 1:00:00 AM	-28.26
+Mar 6, 2023, 1:00:00 AM	-55.76
+Feb 6, 2023, 1:00:00 AM	-55.76
+Feb 6, 2023, 1:00:00 AM	-30.95
+Jan 20, 2023, 1:00:00 AM	-30.95
+Jan 20, 2023, 1:00:00 AM	105.6
+Jan 20, 2023, 1:00:00 AM	105.6
+Jan 20, 2023, 1:00:00 AM	129.7
+Jan 20, 2023, 1:00:00 AM	129.7
+Jan 20, 2023, 1:00:00 AM	157.2
+Jan 20, 2023, 1:00:00 AM	157.2
+Jan 20, 2023, 1:00:00 AM	184.98
+Jan 20, 2023, 1:00:00 AM	184.98
+Jan 20, 2023, 1:00:00 AM	209.36
+Jan 20, 2023, 1:00:00 AM	209.36
+Jan 20, 2023, 1:00:00 AM	181.58
+Jan 5, 2023, 1:00:00 AM	181.58
+Jan 5, 2023, 1:00:00 AM	157.2
+Dec 5, 2022, 1:00:00 AM	157.2
+Dec 5, 2022, 1:00:00 AM	133.1
+Nov 5, 2022, 1:00:00 AM	133.1
+Nov 5, 2022, 1:00:00 AM	129.82
+Sep 21, 2022, 2:00:00 AM	129.82
+Sep 21, 2022, 2:00:00 AM	126.54
+Aug 22, 2022, 2:00:00 AM	126.54
+Aug 22, 2022, 2:00:00 AM	123.26
+Jul 21, 2022, 2:00:00 AM	123.26
+Jul 21, 2022, 2:00:00 AM	119.98
+Jun 21, 2022, 2:00:00 AM	119.98
+Jun 21, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+Jun 7, 2022, 2:00:00 AM	NaN
+May 21, 2022, 2:00:00 AM	NaN
+May 21, 2022, 2:00:00 AM	NaN
+Apr 30, 2022, 2:00:00 AM	NaN
+Apr 30, 2022, 2:00:00 AM	NaN
+Apr 30, 2022, 2:00:00 AM	NaN
+Apr 30, 2022, 2:00:00 AM	NaN
+Mar 21, 2022, 1:00:00 AM	NaN
+Mar 21, 2022, 1:00:00 AM	NaN
+Feb 21, 2022, 1:00:00 AM	NaN
+Feb 21, 2022, 1:00:00 AM	NaN
+Jan 21, 2022, 1:00:00 AM	NaN
+Jan 21, 2022, 1:00:00 AM	NaN
+Dec 21, 2021, 1:00:00 AM	NaN
+Dec 21, 2021, 1:00:00 AM	NaN
+Nov 22, 2021, 1:00:00 AM	NaN
+Nov 22, 2021, 1:00:00 AM	NaN
+Oct 29, 2021, 2:00:00 AM	NaN
+Oct 29, 2021, 2:00:00 AM	NaN
+Oct 27, 2021, 2:00:00 AM	NaN
+Oct 27, 2021, 2:00:00 AM	NaN
+Sep 21, 2021, 2:00:00 AM	NaN
+Sep 21, 2021, 2:00:00 AM	NaN
+Aug 21, 2021, 2:00:00 AM	NaN
+Aug 21, 2021, 2:00:00 AM	NaN
+Jul 21, 2021, 2:00:00 AM	NaN
+Jul 21, 2021, 2:00:00 AM	NaN
+Jun 21, 2021, 2:00:00 AM	NaN
+Jun 21, 2021, 2:00:00 AM	NaN
+May 21, 2021, 2:00:00 AM	NaN
+May 21, 2021, 2:00:00 AM	NaN
+May 6, 2021, 2:00:00 AM	NaN
+May 6, 2021, 2:00:00 AM	NaN
+Apr 21, 2021, 2:00:00 AM	NaN
+Apr 21, 2021, 2:00:00 AM	NaN
+Apr 21, 2021, 2:00:00 AM	NaN
+Apr 21, 2021, 2:00:00 AM	NaN
+Apr 16, 2021, 2:00:00 AM	NaN
+Apr 16, 2021, 2:00:00 AM	NaN
+Mar 22, 2021, 1:00:00 AM	NaN
+Mar 22, 2021, 1:00:00 AM	NaN
+Feb 22, 2021, 1:00:00 AM	NaN
+Feb 22, 2021, 1:00:00 AM	NaN
+Jan 21, 2021, 1:00:00 AM	NaN
+Jan 21, 2021, 1:00:00 AM	NaN
+Dec 21, 2020, 1:00:00 AM	NaN
+Dec 21, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Dec 7, 2020, 1:00:00 AM	NaN
+Nov 21, 2020, 1:00:00 AM	NaN
+Nov 21, 2020, 1:00:00 AM	NaN
+Nov 4, 2020, 1:00:00 AM	NaN
+Nov 4, 2020, 1:00:00 AM	NaN
+Nov 2, 2020, 1:00:00 AM	NaN
+Nov 2, 2020, 1:00:00 AM	NaN
+Sep 21, 2020, 2:00:00 AM	NaN
+Sep 21, 2020, 2:00:00 AM	NaN
+Aug 21, 2020, 2:00:00 AM	NaN
+Aug 21, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Aug 13, 2020, 2:00:00 AM	NaN
+Jul 21, 2020, 2:00:00 AM	NaN
+Jul 21, 2020, 2:00:00 AM	NaN
+Jun 23, 2020, 2:00:00 AM	NaN
+Jun 23, 2020, 2:00:00 AM	NaN
+May 29, 2020, 2:00:00 AM	NaN
+May 29, 2020, 2:00:00 AM	NaN
+May 21, 2020, 2:00:00 AM	NaN
+May 21, 2020, 2:00:00 AM	NaN
+May 4, 2020, 2:00:00 AM	NaN
+May 4, 2020, 2:00:00 AM	NaN
+May 4, 2020, 2:00:00 AM	NaN
+May 4, 2020, 2:00:00 AM	NaN
+May 2, 2020, 2:00:00 AM	NaN
+May 2, 2020, 2:00:00 AM	NaN
+Apr 29, 2020, 2:00:00 AM	NaN
+Apr 29, 2020, 2:00:00 AM	NaN
+Mar 31, 2020, 2:00:00 AM	NaN
+Mar 31, 2020, 2:00:00 AM	NaN
+Mar 27, 2020, 1:00:00 AM	NaN
+Mar 27, 2020, 1:00:00 AM	NaN
+Mar 21, 2020, 1:00:00 AM	NaN
+Mar 21, 2020, 1:00:00 AM	NaN
+Mar 2, 2020, 1:00:00 AM	NaN
+Mar 2, 2020, 1:00:00 AM	NaN
+Feb 27, 2020, 1:00:00 AM	NaN
+Feb 27, 2020, 1:00:00 AM	NaN
+Feb 21, 2020, 1:00:00 AM	NaN
+Feb 21, 2020, 1:00:00 AM	NaN
+Jan 31, 2020, 1:00:00 AM	NaN
+Jan 31, 2020, 1:00:00 AM	NaN
+Jan 29, 2020, 1:00:00 AM	NaN
+Jan 29, 2020, 1:00:00 AM	NaN
+Jan 21, 2020, 1:00:00 AM	NaN
+Jan 21, 2020, 1:00:00 AM	NaN
+Dec 31, 2019, 1:00:00 AM	NaN
+Dec 31, 2019, 1:00:00 AM	NaN
+Dec 27, 2019, 1:00:00 AM	NaN
+Dec 27, 2019, 1:00:00 AM	NaN
+Dec 21, 2019, 1:00:00 AM	NaN
+Dec 21, 2019, 1:00:00 AM	NaN
+Nov 28, 2019, 1:00:00 AM	NaN
+Nov 28, 2019, 1:00:00 AM	NaN
+Nov 21, 2019, 1:00:00 AM	NaN
+Nov 21, 2019, 1:00:00 AM	NaN
+Nov 5, 2019, 1:00:00 AM	NaN
+Nov 5, 2019, 1:00:00 AM	NaN
+Nov 4, 2019, 1:00:00 AM	NaN
+Zaduženja i uplate ukupno
+0
+200
+400
+600
+Zaduženja
+Uplate
+Tip	Iznos
+Zaduženja	335.56
+Uplate	468.72
+HEP ELEKTRA d.o.o., Ulica grada Vukovara 37, 10 000 Zagreb
+© Copyright 2018 HEP Elektra Upiti, prijedlozi, komentaripovratak na vrh
